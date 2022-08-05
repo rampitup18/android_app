@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoalGuess2.0</string>
+    <string name="Name">Name</string>
+    <string name="Goals">Goals</string>
+    <string name="mv">Market Value (Millions)</string>
+    <string name="Add">Add</string>
+    <string name="View">View</string>
+    <string name="back">Back</string>
+</resources>
